@@ -7,7 +7,8 @@
 1.  **KISS (Keep It Simple, Stupid):**
     -   Prefer explicit code over "clever" one-liners.
     -   Do not create generic "BaseButton" wrappers unless used 3+ times.
-    -   Use standard `fetch` for this demo; avoid setting up complex Axios instances.
+    -   Use axios only for this project
+    -   if required use zustand for global state management 
 
 2.  **YAGNI (You Aren't Gonna Need It):**
     -   Do not build a robust Error Boundary system for a demo.

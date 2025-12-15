@@ -4,11 +4,11 @@
 Build a pixel-perfect weather dashboard using Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, and Recharts. Follow the "Golden Hour" design with gold gradient backgrounds (#D69E36, #C48B2C) and white text (#FFFFFF). Implement responsive 3-column layout (Sidebar | Main | Details) that collapses to mobile-first design. Use Open-Meteo API with exact field mappings from tasks/api.md.
 
 ## Phase 1: Foundation & Setup
-- [ ] Subtask 1.1: Install Recharts, Lucide React, and date-fns dependencies
-- [ ] Subtask 1.2: Configure Tailwind theme with gold colors (#D69E36, #C48B2C) in tailwind.config.ts
-- [ ] Subtask 1.3: Create types/weather.ts with exact API response interfaces matching tasks/api.md
-- [ ] Subtask 1.4: Create lib/weather-codes.ts mapping WMO codes to Lucide icons
-- [ ] Subtask 1.5: Create lib/weather-service.ts with getWeather() function using exact endpoint from tasks/api.md
+- [x] Subtask 1.1: Install Recharts, Lucide React, and date-fns dependencies
+- [x] Subtask 1.2: Configure Tailwind theme with gold colors (#D69E36, #C48B2C) in tailwind.config.ts
+- [x] Subtask 1.3: Create types/weather.ts with exact API response interfaces matching tasks/api.md
+- [x] Subtask 1.4: Create lib/weather-codes.ts mapping WMO codes to Lucide icons
+- [x] Subtask 1.5: Create lib/weather-service.ts with getWeather() function using exact endpoint from tasks/api.md
 
 ## Phase 2: Core Layout & Navigation
 - [ ] Subtask 2.1: Create app/layout.tsx with 3-column grid layout (80px Sidebar | Main | Right Details)
