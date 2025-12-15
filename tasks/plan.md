@@ -11,11 +11,11 @@ Build a pixel-perfect weather dashboard using Next.js 15, TypeScript, Tailwind C
 - [x] Subtask 1.5: Create lib/weather-service.ts with getWeather() function using exact endpoint from tasks/api.md
 
 ## Phase 2: Core Layout & Navigation
-- [ ] Subtask 2.1: Create app/layout.tsx with 3-column grid layout (80px Sidebar | Main | Right Details)
-- [ ] Subtask 2.2: Apply gold gradient background classes: bg-gradient-to-br from-[#D69E36] to-[#C48B2C]
-- [ ] Subtask 2.3: Create components/sidebar.tsx with 80px fixed width navigation
-- [ ] Subtask 2.4: Add navigation icons (Weather, Explore, Cities, Settings) with active states
-- [ ] Subtask 2.5: Position user avatar at top of sidebar
+- [x] Subtask 2.1: Create app/layout.tsx with 3-column grid layout (80px Sidebar | Main | Right Details)
+- [x] Subtask 2.2: Apply gold gradient background classes: bg-gradient-to-br from-[#D69E36] to-[#C48B2C]
+- [x] Subtask 2.3: Create components/sidebar.tsx with 80px fixed width navigation
+- [x] Subtask 2.4: Add navigation icons (Weather, Explore, Cities, Settings) with active states
+- [x] Subtask 2.5: Position user avatar at top of sidebar
 
 ## Phase 3: Weather Header Component
 - [ ] Subtask 3.1: Create components/weather-header.tsx
